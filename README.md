@@ -26,5 +26,3 @@
 * Memory hierarchy
 * Assign one CUDA thread to each particle coordinate.
 * When averaging, compute the final value for each voxel (x, y, z) by processing thousands of subtomograms in parallel.
-
-**Main fixes:** “thorughout → throughout,” “Possile → Possible,” “roate → rotate,” “average → averaged (when used as verb in past),” “protiens → proteins,” “are represents → is represented,” “ex → e.g.,” plus minor punctuation/wording for clarity.
