@@ -1,5 +1,5 @@
-Cryo EM:
-Cryogenic electron tomography is an imaging technique used to visualize 3D structures of biological samples. A tomogram is a detailed 3D image of a cell, and contains many copies of the same molecule scattered thorughout the cellular environment.
+Cryo EM:  
+Cryogenic electron tomography is an imaging technique used to visualize 3D structures of biological samples. A tomogram is a detailed 3D image of a cell, and contains many copies of the same molecule scattered thorughout the cellular environment.  
 Possile implementations using CUDA:  
 Subtomogram Extraction:  
 - Cuts tomograms into smaller boxes into a subtomogram, centered on one exact molecule.
