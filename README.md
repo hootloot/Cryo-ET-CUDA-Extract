@@ -10,6 +10,7 @@
 ### Subtomogram Extraction
 
 * Cuts tomograms into smaller boxes (subtomograms), each centered on one exact molecule.
+* A mrc file is a large array (3d)
 
 ### Subtomogram Averaging
 
