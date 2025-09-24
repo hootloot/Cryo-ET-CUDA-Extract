@@ -20,6 +20,10 @@
 * Through averaging, noise (electrons, instrument noise) is represented as dark or light pixels; when averaging thousands of these values, they may cancel into the gray background.
 * Output should be a 3D structure of the molecule.
 
+From Relion docs
+- Pseudo-subtomogram particles are described by a particle set star file
+- The core of the subtomogram averaging workflow is an iterative alignment and averaging procedure; a set of subtomograms are aligned with a reference so as to maximize a scoring function. 
+
 ### CUDA
 
 * Grids, blocks, threads
