@@ -25,7 +25,7 @@ From Relion docs
 - Pseudo-subtomogram particles are described by a particle set star file
 - The core of the subtomogram averaging workflow is an iterative alignment and averaging procedure; a set of subtomograms are aligned with a reference so as to maximize a scoring function. 
 
-### CUDA
+### CUDA's purpose here
 
 * Grids, blocks, threads
 * Memory hierarchy
