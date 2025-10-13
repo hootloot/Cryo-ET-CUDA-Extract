@@ -27,7 +27,10 @@ From Relion docs
 
 ### CUDA's purpose here
 
-* Grids, blocks, threads
-* Memory hierarchy
-* Assign one CUDA thread to each particle coordinate.
-* When averaging, compute the final value for each voxel (x, y, z) by processing thousands of subtomograms in parallel.
+* Kernel executes in a thread
+* Thread grouped into Thread blocks
+* Blocks grouped into grids
+* Grid contains mutiple blocks 
+* block contains multiple blocks
+* compiled to x86 binary
+
